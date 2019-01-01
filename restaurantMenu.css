@@ -1,0 +1,43 @@
+
+#mainSection {
+  height: 480px;
+}
+
+#sidebar {
+  float: left;
+  border: 2px solid black;
+  height:480px;
+  width: 25%
+}
+
+#majorSection {
+  float:left;
+  border: 2px solid black;
+  height: 480px;
+  width: 900px;
+}
+
+#headerSection {
+  height: 70px;
+  text-align: center;
+}
+
+#footerSection {
+  height: 20px;
+  background: grey;
+}
+
+#menuCaption {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#table {
+  position: relative;
+  top:100px; 
+  table-layout: fixed;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+
